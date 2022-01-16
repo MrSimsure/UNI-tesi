@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dede6dd0-8359-4269-88bb-f0ed1adbebf5": {
+      "ProjectGuid": "dede6dd0-8359-4269-88bb-f0ed1adbebf5",
+      "DisplayName": "project_CS",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    },
+    "13a7cb6c-98ed-4eff-b34e-c447329450a6": {
+      "ProjectGuid": "13a7cb6c-98ed-4eff-b34e-c447329450a6",
+      "DisplayName": "code_50K",
+      "ColorIndex": 1
+    },
+    "9e333190-0f75-4148-86ba-51a429204737": {
+      "ProjectGuid": "9e333190-0f75-4148-86ba-51a429204737",
+      "DisplayName": "draw_50K",
+      "ColorIndex": 2
+    },
+    "8bea0539-ec5e-4b2c-b95b-91c647293dde": {
+      "ProjectGuid": "8bea0539-ec5e-4b2c-b95b-91c647293dde",
+      "DisplayName": "code_500K",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

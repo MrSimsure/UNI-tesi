@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {"id":{"name":"object_code_50K","path":"objects/object_code_50K/object_code_50K.yy",},"order":1,},
+    {"id":{"name":"object_draw_50K","path":"objects/object_draw_50K/object_draw_50K.yy",},"order":0,},
+    {"id":{"name":"object_code_500K","path":"objects/object_code_500K/object_code_500K.yy",},"order":2,},
+    {"id":{"name":"room_code_50K","path":"rooms/room_code_50K/room_code_50K.yy",},"order":1,},
+    {"id":{"name":"room_code_500K","path":"rooms/room_code_500K/room_code_500K.yy",},"order":2,},
+    {"id":{"name":"room_draw_50K","path":"rooms/room_draw_50K/room_draw_50K.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room_draw_50K","path":"rooms/room_draw_50K/room_draw_50K.yy",},},
+    {"roomId":{"name":"room_code_50K","path":"rooms/room_code_50K/room_code_50K.yy",},},
+    {"roomId":{"name":"room_code_500K","path":"rooms/room_code_500K/room_code_500K.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Objects.yy","order":9,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.7.606",
+  },
+  "resourceVersion": "1.4",
+  "name": "project_GMS",
+  "tags": [],
+  "resourceType": "GMProject",
+}

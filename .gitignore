@@ -1,0 +1,13 @@
+/project_Unity/Library
+/project_Unity/Logs
+
+/project_CS/dist
+/project_CS/draw_50K/bin
+/project_CS/draw_50K/obj
+/project_CS/code_50K/bin
+/project_CS/code_50K/obj
+/project_CS/code_500K/bin
+/project_CS/code_500K/obj
+
+/project_C/dist
+/project_C_zig/dist
