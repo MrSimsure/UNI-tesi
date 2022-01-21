@@ -36,8 +36,6 @@
     <PackageReference Include="SDL-Sharp_32-bits" Version="1.2.3" />
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="del &quot;F:\Unicam\Tesi\Confronto_stress\dist_nodraw\CS\libFLAC-8.dll&quot;&#xD;&#xA;" />
-  </Target>
+
 
 </Project>

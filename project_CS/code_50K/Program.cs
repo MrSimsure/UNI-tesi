@@ -35,7 +35,7 @@ namespace TestConfronto
                 return 0;
             }
             
-            IntPtr wind = SDL.CreateWindow("Hello Platformer! C#",SDL.WINDOWPOS_CENTERED,SDL.WINDOWPOS_CENTERED,WIDTH, HEIGHT, 0);
+            IntPtr wind = SDL.CreateWindow("Thesis - 50K code C#",SDL.WINDOWPOS_CENTERED,SDL.WINDOWPOS_CENTERED,WIDTH, HEIGHT, 0);
             if (wind == IntPtr.Zero)
             {
                 Console.WriteLine("Error creating window: %s\n");
